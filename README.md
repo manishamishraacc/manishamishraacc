@@ -9,7 +9,8 @@ I have been working as a QA for past 7 years. In those years I worked in E-comme
 *   🌍  I'm based in Mumbai
 *   ✉️  You can contact me at [manishamishraacc@gmail.com](mailto:manishamishraacc@gmail.com)
 *   🧠  I'm learning Playwright and Team City
-*   ⚡  I love reading, swimming and dogs### Skills 
+*   ⚡  I love reading, swimming and dogs
+*   ### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
