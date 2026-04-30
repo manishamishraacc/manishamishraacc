@@ -142,8 +142,7 @@
 
 <div align="center">
 
-<a href="https://github.com/manishamishraacc/vionAI-Backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manishamishraacc&repo=mcp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="AI Agent using Langgraph"/></a>
-<a href="https://github.com/manishamishraacc/mcp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manishamishraacc&repo=mcp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="mcp"/></a>
+<a href="https://github.com/manishamishraacc/vionAI-Backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manishamishraacc&repo=vionAI-Backend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="AI Agent using Langgraph"/></a>
 <a href="https://github.com/manishamishraacc/playwright-mcp-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manishamishraacc&repo=playwright-mcp-server&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="playwright-mcp-server"/></a>
 <a href="https://github.com/manishamishraacc/manishamishraacc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manishamishraacc&repo=manishamishraacc&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="manishamishraacc"/></a>
 <a href="https://github.com/manishamishraacc/cucumberCT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manishamishraacc&repo=cucumberCT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="cucumberCT"/></a>
@@ -170,7 +169,7 @@
 <td>Langraph based Agentic AI for software testing and coding</td>
 <td><img src="https://img.shields.io/badge/1-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/1-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/TypeScript-gray?style=flat-square" alt="language"/></td>
+<td><img src="https://img.shields.io/badge/Python-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/manishamishraacc/playwright-mcp-server"><b>playwright-mcp-server</b></a></td>
