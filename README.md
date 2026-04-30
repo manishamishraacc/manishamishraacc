@@ -130,6 +130,16 @@
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="maven"/>
 </div>
+<td valign="top" width="33%">
+
+<h3 align="center">🧠 AI & Orchestration</h3>
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM-3b82f6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-6366F1?style=for-the-badge"/>
+</div>
 
 </td>
 </tr>
